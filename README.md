@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Lucas
+- 👋 Hi, my name is Lucas Degi
 - 👀 I’m interested in Data Science and Astrophysics
 - 📫 You can reach me through my LinkedIn profile: https://www.linkedin.com/in/lucas-degi-08b073226/
 
